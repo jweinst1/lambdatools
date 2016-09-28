@@ -1,4 +1,4 @@
-struct lambdatools {
+public struct lambdatools {
 
     //iterator for chars in a string
     struct StrIter {
